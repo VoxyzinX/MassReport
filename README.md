@@ -7,7 +7,7 @@ Apenas um projeto pra brincar
 Com amigos
 
 ## Linguagem e dependencias
-- [![JS](./src/javascript.svg)](https://aleen42.github.io/badges/src/javascript.svg)
+- JavaScript (n consegui por a porra do badge do js)
 - discordjs
 - colors
 - table
