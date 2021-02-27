@@ -7,7 +7,7 @@ Apenas um projeto pra brincar
 Com amigos
 
 ## Linguagem e dependencias
-- JavaScript (n consegui por a porra do badge do js)
+- ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
 - discordjs
 - colors
 - table
